@@ -1,2 +1,4 @@
-# theater-seat-booking
-creating a sample theater seat booking and cancelling interface
+# Theater-seat-booking
+Creating a sample theater seat booking and cancelling interface
+<br>
+Author -- Mohammed Ayan
